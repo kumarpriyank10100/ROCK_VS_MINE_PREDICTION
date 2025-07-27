@@ -40,13 +40,10 @@ It contains 60 features representing sonar signal strengths, and a binary label:
 
 | Metric              | Value    |
 |---------------------|----------|
-| **Train Accuracy**  | ~XX%     |
-| **Test Accuracy**   | ~XX%     |
-| **ROC-AUC Score**   | ~XX      |
+| **Train Accuracy**  | ~80.95%     |
 
-> *(Replace with actual values from your results)*
 
----
+
 
 ## 🔮 Sample Prediction
 
