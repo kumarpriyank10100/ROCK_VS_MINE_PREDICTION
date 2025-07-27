@@ -53,32 +53,3 @@ It contains 60 features representing sonar signal strengths, and a binary label:
 ```python
 🎯 Final Prediction: Rock (1)
 🔍 Probability: 89.6%
-
-🚀 Future Improvements
-Try other classification algorithms: RandomForest, SVM, XGBoost
-Use cross-validation (GridSearchCV)
-Build a real-time prediction app with Streamlit
-Add PCA for dimensionality reduction
-
-🛠️ Tech Stack
-
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
-
-📌 How to Run
-# 1. Clone the repo
-git clone https://github.com/your-username/rock-vs-mine-logistic.git
-cd rock-vs-mine-logistic
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch Jupyter Notebook
-jupyter notebook
-
-👨‍💻 Author
-Priyank Kumar
-Aspiring AI/ML Engineer
-LinkedIn • GitHub • Portfolio
