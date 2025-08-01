@@ -1,6 +1,7 @@
 # 🔍 Rock vs Mine Prediction using Logistic Regression
 
 A machine learning project that classifies sonar signals as either **Rock** or **Mine** using a **Logistic Regression** model. Built with `scikit-learn`, this project walks through the complete ML pipeline — from data loading and EDA to model evaluation and real-world prediction.
+<img width="1920" height="1080" alt="Screenshot 2025-07-27 023609" src="https://github.com/user-attachments/assets/e744d292-3154-4281-974e-ef28e1d0ef23" />
 
 ---
 
